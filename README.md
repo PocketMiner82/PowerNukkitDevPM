@@ -4,6 +4,9 @@
 [![PowerNukkit v1.X](https://github.com/PowerNukkit/PowerNukkit/workflows/PowerNukkit%20v1.X/badge.svg?branch=master)](https://github.com/PowerNukkit/PowerNukkit/actions?query=branch%3Amaster)
 [![Discord](https://img.shields.io/discord/728280425255927879)](https://powernukkit.org/discord)
 
+This is not the official PowerNukkit repo, but my development repo.
+--------------------------------------------------------------------
+
 Introduction
 -------------
 
